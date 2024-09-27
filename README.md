@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Iftikhar.
 - 👀 I’m interested in Software Engineering and DevOps.
-- 🌱 I’m currently learning  more Data Structure, Algorithms, Backend Engineering.
+- 🌱 I’m currently learning  more Data Structure, Algorithms, Backend Engineering & devOps.
 - 💞️I’m looking to collaborate on great projects more on the Backend Engineering.
-- 📫 How to reach me iftikharrj2001@gmail.com .
+- 📫 How to reach me muhammadiftikhar.dev@gmail.com.
